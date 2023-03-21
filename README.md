@@ -1,2 +1,3 @@
-# terms
-Terms and conditions
+# Terms and Conditions
+
+This repository hosts the Kintsugi and Interlay terms and conditions.
